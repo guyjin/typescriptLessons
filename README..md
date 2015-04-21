@@ -1,0 +1,1 @@
+Just a collection of work from the edX/Microsoft Typescript online course.
